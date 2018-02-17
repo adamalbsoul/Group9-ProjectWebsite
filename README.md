@@ -6,6 +6,8 @@ We're making a positive, feel-good shoot 'em up based on 80's arcade games such 
 Prototype 1 is done, currently working on prototype 2.
 <blockquote class="imgur-embed-pub" lang="en" data-id="BsoB0C6"><a href="//imgur.com/BsoB0C6"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+ <img src="https://i.imgur.com/BsoB0C6.mp4" alt="Mountain"> 
+
 Prototype 2:
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/UvehY"><a href="//imgur.com/UvehY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
