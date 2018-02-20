@@ -4,7 +4,7 @@ We're making a positive, feel-good shoot 'em up based on 80's arcade games such 
 
 ## Progress
 Prototype 1:
- <a href="prototype1/proto1WEB.html">Prototype 2 playable in web broswers;
+ <a href="/prototype1/proto1WEB.html">Prototype 1 playable in web broswers;
 Controls:
  W,S - Movement;
  Spacebar - fire;
@@ -12,7 +12,7 @@ Controls:
 <blockquote class="imgur-embed-pub" lang="en" data-id="BsoB0C6"><a href="//imgur.com/BsoB0C6"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Prototype 2:
- <a href="prototype2/proto2WEB.html">Prototype 2 playable in web broswers;
+ <a href="/prototype2/proto2WEB.html">Prototype 2 playable in web broswers;
 Controls:
  W,S - Movement;
  Spacebar - throw coffee;
