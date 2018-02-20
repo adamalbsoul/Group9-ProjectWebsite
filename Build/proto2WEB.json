@@ -1,9 +1,0 @@
-{
-"TOTAL_MEMORY": 268435456,
-"dataUrl": "proto2WEB.data.unityweb",
-"asmCodeUrl": "proto2WEB.asm.code.unityweb",
-"asmMemoryUrl": "proto2WEB.asm.memory.unityweb",
-"asmFrameworkUrl": "proto2WEB.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
-}
