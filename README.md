@@ -12,7 +12,7 @@ Controls:
 <blockquote class="imgur-embed-pub" lang="en" data-id="BsoB0C6"><a href="//imgur.com/BsoB0C6"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Prototype 2:
- <a href="prototype2/proto2.html">Prototype 2 playable in web broswers;
+ <a href="prototype2/prototype2.html">Prototype 2 playable in web broswers;
 Controls:
  W,S - Movement;
  Spacebar - throw coffee;
