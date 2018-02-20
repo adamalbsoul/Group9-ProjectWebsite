@@ -21,4 +21,5 @@ Controls:
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/UvehY"><a href="//imgur.com/UvehY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Twitter
-Follow the [Group 9 Twitter](https://twitter.com/GCUGroup9) account with weekly updates.
+<a href="https://twitter.com/GCUGroup9">
+<img border="0" alt="Twitter" src="https://www.shareicon.net/data/128x128/2016/08/13/808616_logo_512x512.png" width="100" height="100">
