@@ -15,7 +15,7 @@
 We're making a positive, feel-good shoot 'em up based on 80's arcade games such as Space Invaders, Defender and Galaga. 
 
 ## Progress
-Most recent version:
+<b>Most recent version</b>:
  <a href="waves/waves.html">Most recent version playable in web broswers;
 Controls:
  W,S - Movement;
