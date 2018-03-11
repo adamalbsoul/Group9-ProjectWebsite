@@ -1,3 +1,5 @@
+layout: blog
+
 <head>
 <link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-touch-icon.png">
  <link rel="icon" sizes="192x192" href="favicons/android-chrome-192x192.png.png">
