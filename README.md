@@ -20,6 +20,9 @@ We're making a positive, feel-good shoot 'em up based on 80's arcade games such 
 Controls:
  W,S - Movement;
  Spacebar - throw coffee;
+ E - throw book;
+ F - throw energy drink;
+ Escape - Pause
 </a> 
 
 Prototype 1:
