@@ -19,13 +19,13 @@ You can view the game design log document <a href="https://docs.google.com/docum
 
 ## Progress
 <b>Most recent version</b>:
- <a href="waves/waves.html">Play the most recent version playable in web broswers</a>
-Controls:
- W,S - Movement
- Spacebar - throw coffee
- Backspace - throw book
- Enter/Return - throw energy drink
- Escape - Pause
+ <a href="waves/waves.html">Play the most recent version playable in web broswers</a><br />
+Controls:<br />
+ W,S - Movement<br />
+ Spacebar - throw coffee<br />
+ Backspace - throw book<br />
+ Enter/Return - throw energy drink<br />
+ Escape - Pause<br />
 
 Prototype 1:
  <a href="prototype1/proto1.html">Prototype 1 playable in web broswers</a> <br />
